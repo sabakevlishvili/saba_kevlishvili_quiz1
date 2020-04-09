@@ -1,0 +1,22 @@
+input{
+    max-width: 300px;
+    margin-bottom: 10px;
+}
+
+select{
+    max-width: 300px;
+    margin-bottom: 10px;
+    
+}
+
+textarea{
+    max-width: 300px;
+    margin-bottom: 10px;
+
+}
+
+button{
+    max-width: 300px;
+
+    margin-top: 10px;
+}
